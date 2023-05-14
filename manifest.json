@@ -1,11 +1,11 @@
 {
-    "name": "ni_studio_us_home",
-    "short_name": "ni_studio_us_home",
+    "name": "iky",
+    "short_name": "iky",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#AARRGGBB",
-    "theme_color": "#AARRGGBB",
-    "description": "Static Web Apps Flutter Project to maintain the details of my Scribble Notes Application",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
